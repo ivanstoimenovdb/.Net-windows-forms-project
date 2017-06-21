@@ -1,0 +1,12 @@
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\Стоименов\Documents\Visual Studio 2015\Projects\PS_izravnitelno_ivan\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf

@@ -1,0 +1,9 @@
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\obj\Debug\HelloWorld.SecondForm.resources
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\стоименов\documents\visual studio 2015\Projects\PS_izravnitelno_ivan\HelloWorld\obj\Debug\HelloWorld.pdb
